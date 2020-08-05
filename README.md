@@ -1,2 +1,2 @@
 # Cloudground
-An app for communication
+An app for communication similar to Zoom when no one knew about this COVID pandemic.....
